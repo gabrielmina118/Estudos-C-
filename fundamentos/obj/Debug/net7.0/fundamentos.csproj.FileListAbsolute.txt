@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\bin\Debug\net7.0\fundamentos.exe
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\bin\Debug\net7.0\fundamentos.deps.json
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\bin\Debug\net7.0\fundamentos.runtimeconfig.json
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\bin\Debug\net7.0\fundamentos.dll
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\bin\Debug\net7.0\fundamentos.pdb
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\obj\Debug\net7.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\obj\Debug\net7.0\fundamentos.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\obj\Debug\net7.0\fundamentos.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\obj\Debug\net7.0\fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\obj\Debug\net7.0\fundamentos.dll
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\obj\Debug\net7.0\refint\fundamentos.dll
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\obj\Debug\net7.0\fundamentos.pdb
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\obj\Debug\net7.0\fundamentos.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Cursos\balta\fundamentos\obj\Debug\net7.0\ref\fundamentos.dll
