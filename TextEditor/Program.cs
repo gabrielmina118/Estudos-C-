@@ -12,6 +12,7 @@ namespace TextEditor
 
         static void Menu()
         {
+            
             Console.Clear();
             Console.WriteLine("Oque deseja fazer?");
             Console.WriteLine("1 - abrir um arquivo?");

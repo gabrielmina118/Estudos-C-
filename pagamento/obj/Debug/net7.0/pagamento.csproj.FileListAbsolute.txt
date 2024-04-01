@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\obj\Debug\net7.0\pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\obj\Debug\net7.0\pagamento.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\obj\Debug\net7.0\pagamento.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\obj\Debug\net7.0\pagamento.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\bin\Debug\net7.0\pagamento.exe
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\bin\Debug\net7.0\pagamento.deps.json
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\bin\Debug\net7.0\pagamento.runtimeconfig.json
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\bin\Debug\net7.0\pagamento.dll
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\bin\Debug\net7.0\pagamento.pdb
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\obj\Debug\net7.0\pagamento.dll
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\obj\Debug\net7.0\refint\pagamento.dll
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\obj\Debug\net7.0\pagamento.pdb
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\obj\Debug\net7.0\pagamento.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Cursos\balta\pagamento\obj\Debug\net7.0\ref\pagamento.dll
