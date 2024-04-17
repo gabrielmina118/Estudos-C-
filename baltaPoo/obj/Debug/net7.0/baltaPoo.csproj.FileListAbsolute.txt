@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\baltaPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\baltaPoo.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\baltaPoo.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\baltaPoo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\bin\Debug\net7.0\baltaPoo.exe
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\bin\Debug\net7.0\baltaPoo.deps.json
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\bin\Debug\net7.0\baltaPoo.runtimeconfig.json
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\bin\Debug\net7.0\baltaPoo.dll
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\bin\Debug\net7.0\baltaPoo.pdb
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\baltaPoo.dll
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\refint\baltaPoo.dll
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\baltaPoo.pdb
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\baltaPoo.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\ref\baltaPoo.dll
