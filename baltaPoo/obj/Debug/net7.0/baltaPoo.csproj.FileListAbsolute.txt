@@ -12,3 +12,4 @@ C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\refint\baltaPoo.dl
 C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\baltaPoo.pdb
 C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\baltaPoo.genruntimeconfig.cache
 C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\ref\baltaPoo.dll
+C:\Users\gabri\Desktop\Cursos\balta\baltaPoo\obj\Debug\net7.0\baltaPoo.sourcelink.json

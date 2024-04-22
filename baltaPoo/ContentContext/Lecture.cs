@@ -6,7 +6,7 @@ using BaltaPoo.ContentContext.Enums;
 
 namespace BaltaPoo.ContentContext
 {
-    public class Lecture
+    public class Lecture : Base
     {
         public int Ordem { get; set; }
         public int Title { get; set; }

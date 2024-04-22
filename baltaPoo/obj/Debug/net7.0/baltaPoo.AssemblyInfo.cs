@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("baltaPoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b56b34d6ef7d2b331020d50121c45e89d889213")]
 [assembly: System.Reflection.AssemblyProductAttribute("baltaPoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("baltaPoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

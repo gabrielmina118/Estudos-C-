@@ -73,6 +73,37 @@ namespace DataAcess
             connection.Execute(procedure, pars, commandType: CommandType.StoredProcedure);
         }
 
+        static void ReadProcedure(SqlConnection connection)
+        {
+            var procedure = "[getCategories]";
+            var listCategories = connection.Query(procedure, commandType: CommandType.StoredProcedure);
+
+            foreach (var item in listCategories)
+            {
+                Console.WriteLine(item);
+            }
+        }
+
+        // Execute scalar é quando você executa um insert e select na mesma função
+        static void ExecuteScalar(SqlConnection connection)
+        {
+            var category = new Category();
+            category.id = 26;
+            category.name = "Nova categoria";
+
+            var insertSql = @"
+                    INSERT INTO [category] VALUES(@id , @name)
+                    SELECT SCOPE_IDENTITY();
+            ";
+
+            var id = connection.ExecuteScalar<int>(insertSql, new
+            {
+                category.id,
+                category.name
+            });
+            Console.WriteLine($"A categoria {id} inserida com sucesso!");
+        }
+
     }
 
 }
